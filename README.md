@@ -1,3 +1,9 @@
+Brand Page
+
+![Screenshot (79)](https://github.com/Pratik298686/Brand-Page/assets/85446883/79b45f35-6db5-4afa-ad5a-08a28b1a5325)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
